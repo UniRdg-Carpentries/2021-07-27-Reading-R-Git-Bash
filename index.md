@@ -401,6 +401,10 @@ please preview your site before committing, and make sure to run
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
 
+<p>
+  A few days prior to the workshop, we hold a "setup clinic", during which some of us will be available on Teams to help you out with installing the relevant pieces of software. Please use this opportunity to test your setup before you attend the workshop.
+</p>
+
 {% comment %}
 For online workshops, the section below provides:
 - installation instructions for the Zoom client
